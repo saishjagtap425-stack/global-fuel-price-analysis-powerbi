@@ -1,10 +1,10 @@
-# 🌍 Global Fuel Price Analysis Dashboard
+# 🌍 Global Fuel Price Analysis Report
 
 ## 📌 Project Overview
 
-The **Global Fuel Price Analysis Dashboard** is an interactive Power BI project designed to analyze fuel price trends across different countries and understand the economic and market factors influencing petrol prices.
+The **Global Fuel Price Analysis Report** is an interactive Power BI report designed to analyze fuel price trends across different countries and understand the economic and market factors influencing petrol prices.
 
-The dashboard combines historical fuel prices with macroeconomic indicators such as inflation, exchange rates, supply-demand dynamics, taxation, and global events to provide meaningful business insights.
+The report combines historical fuel prices with macroeconomic indicators such as inflation, exchange rates, supply-demand dynamics, taxation, and global events to provide meaningful business insights.
 
 ---
 
@@ -14,7 +14,7 @@ The dashboard combines historical fuel prices with macroeconomic indicators such
 - Compare petrol, diesel, gas, and crude oil prices across countries.
 - Study the impact of economic indicators on fuel prices.
 - Identify key drivers influencing petrol prices.
-- Build an interactive dashboard for business decision-making.
+- Build an interactive Power BI report for business decision-making.
 
 ---
 
@@ -28,7 +28,7 @@ The dashboard combines historical fuel prices with macroeconomic indicators such
 
 ---
 
-# 📊 Dashboard Pages
+# 📊 Report Pages
 
 ## 📄 Page 1 – Fuel Price Overview
 
@@ -43,7 +43,7 @@ Features:
 - Comparative Fuel Price Table
 - Region Filter
 
-### Dashboard Preview
+### Report Preview
 
 ![Page 1](images/page1.png)
 
@@ -58,7 +58,7 @@ Features:
 - Demand Index vs Petrol Price
 - Country Filter
 
-### Dashboard Preview
+### Report Preview
 
 ![Page 2](images/page2.png)
 
@@ -72,7 +72,7 @@ Features:
 - Inflation Map
 - Fuel Price Volatility
 
-### Dashboard Preview
+### Report Preview
 
 ![Page 3](images/page3.png)
 
@@ -86,7 +86,7 @@ Features:
 - Economic Factor Comparison
 - Year-wise Country Comparison
 
-### Dashboard Preview
+### Report Preview
 
 ![Page 4](images/page4.png)
 
@@ -101,7 +101,7 @@ Features:
 - Inflation Impact
 - Supply Index Analysis
 
-### Dashboard Preview
+### Report Preview
 
 ![Page 5](images/page5.png)
 
@@ -123,7 +123,7 @@ Features:
 
 # 🌎 Dataset Features
 
-The dashboard analyzes:
+The report analyzes:
 
 - Country
 - Region
@@ -172,7 +172,7 @@ The dashboard analyzes:
 - KPI Design
 - Time Series Analysis
 - Geographic Analysis
-- Interactive Dashboard Design
+- Interactive Report Development
 - Business Intelligence
 - Data Storytelling
 
@@ -183,18 +183,18 @@ The dashboard analyzes:
 - Live API integration for real-time fuel prices.
 - Forecasting using Power BI forecasting visuals.
 - Additional country-level drill-through reports.
-- Mobile-optimized dashboard layout.
+- Mobile-optimized report layout.
 
 ---
 
 # 📷 Project Structure
 
-```
+```text
 global-fuel-price-analysis-powerbi/
 │
 ├── LICENSE
 ├── README.md
-├── PowerBi_Mock_Project.pbix
+├── Global_Fuel_Price_Analysis_Report.pbix
 └── images/
     ├── page1.png
     ├── page2.png
